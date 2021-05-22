@@ -1,0 +1,94 @@
+.logodiv1 {
+	height: 168px;
+  position: sticky;
+  top: 0%;
+}
+.logo{
+	display: block;
+    margin-left: 23px;
+	width: 169px;
+	height: 157px;
+}
+
+
+.logo2 {
+	display: inline-flex;
+    position: absolute;
+    right: 29px;
+    top: 50px;}
+
+
+.logo2 {
+  overflow: hidden;
+  background-color: white;
+}
+
+.logo2 a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+	font-family: sans-serif;
+	font-weight: bold;
+  border-bottom: 3px solid transparent;
+}
+
+.logo2 a:hover {
+  border-bottom: 3px solid black;
+}
+
+
+
+.logo3 {
+	float: right;
+	width: 135px;
+	height: 117px;
+	position: relative;
+    right: 11px;
+    top: 8px;
+}
+
+.logodiv {
+	background-color: firebrick;
+	overflow: hidden;
+	height: 130px;
+}
+
+.head1 {text-align: center;
+    font-size: 56px;
+    font-weight: bold;
+	font-family: sans-serif;
+}
+
+.para {
+	text-align: center;
+	font-size: 25px;
+    font-family: sans-serif;
+}
+
+.para1 {
+	text-align: center;
+	font-size: 14px;
+    color: darkgray;
+	font-family: sans-serif;
+}
+
+.imag {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 652px;
+}
+.socialdiv {
+	margin-left: auto;
+    margin-right: auto;
+    display: table;
+}
+
+.socialimg {
+	width: 60px;
+	
+}
